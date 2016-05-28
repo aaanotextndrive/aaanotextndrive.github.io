@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>page</title>
+</head>
+<body style="background-color:#b0e0e6;">
+<h1 style="font-family:Trebuchet MS;">Statistics</h1>
+<p style="font-family:Trebuchet MS;">11 teens die every day as a result of texting while driving</p>
+<p style="font-family:Trebuchet MS;">The National Safety Council reports that cell phone use while driving leads to 1.6 million crashes each year</p>
+<p style="font-family:Trebuchet MS;">Nearly 330,000 injuries occur each year from accidents caused by texting while driving</p>
+<p style="font-family:Trebuchet MS;">Texting while driving is 6x more likely to cause an accident than driving drunk</p>
+<p style="font-family:Trebuchet MS;">21% of teen drivers involved in fatal accidents were distracted by their cell phones</p>
+<p style="font-family:Trebuchet MS;">The Virginia Tech Transportation Institute found that text messaging creates a crash risk 23 times worse than driving while not distracted</p>
+<p style="font-family:Trebuchet MS;">1 out of every 4 car accidents in the United States is caused by texting and driving</p>
+<p style="font-family:Trebuchet MS;">Teens who text while driving spend approximately 10% of their driving time outside of their lane</p>
+<p style="font-family:Trebuchet MS;">In 2014, 3,179 people were killed, and 431,000 were injured in motor vehicle crashes involving distracted drivers </p>
+<img src="https://www.edgarsnyder.com/images/stats/texting-statistics-all-accidents.png" alt="23 Percent" style="width:450px;height:200px;">
+<img src="http://www.textingalert.com/images/stats.png" alt="stats" style="width:550px;height:250px;">
+<img src="http://www.postandcourier.com/storyimage/CP/20140225/PC1603/140229572/AR/0/AR-140229572.jpg&maxw=800&q=90" alt="green and black" style="width:100px;height:70px; position:absolute; TOP:5px; LEFT:160px">
+<img src="http://cdn2.hubspot.net/hub/111361/file-16347616-jpg/images/texting_test_results_worst_imagelarge-resized-600.jpg?t=1419853679410&width=379&height=224" alt="graph" style="width:400px;height:250px; position:absolute; TOP:415px; LEFT:460px">
+</body>
+</html>
